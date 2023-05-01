@@ -1,4 +1,4 @@
-flask==1.0.2
+flask==2.3.2
 netmiko==2.4.1
 requests==2.22.0
 pyOpenSSL==19.1.0
